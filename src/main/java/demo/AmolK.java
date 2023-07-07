@@ -6,7 +6,7 @@ public class AmolK
 	{
 		
 		System.out.println("Hi");
-		
+		System.out.println("GOOD AFTERNOON");
 		
 		
 	}
